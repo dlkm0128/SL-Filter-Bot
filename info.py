@@ -77,8 +77,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/Movies_Request_TR')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/Kali_TG')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/TamilRockerz_TR')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/TamilRockerz_TR')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/+6L7dnBl8-N4zYzZl')
 
 # Bot settings
 AUTO_FILTER = is_enabled((environ.get('AUTO_FILTER', "True")), True)
